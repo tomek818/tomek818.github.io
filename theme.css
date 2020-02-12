@@ -1,0 +1,43 @@
+body {
+  background-color: #e0e0e0;
+  width = 100%;
+  height: 100%;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+}
+
+.header {
+  margin-left:auto;
+  margin-right: auto;
+  font-size: 35px;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-around;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.nav-link {
+  width: 100%;
+  text-align: center;
+}
+
+.nav-inner {
+  background-color: #5b8566;
+  
+}
+
+.nav-outer {
+  background-color: #4a7455;
+}
+
+img {
+	float:left;
+max-width:600px;
+max-height600px:
+}
